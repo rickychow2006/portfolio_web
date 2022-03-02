@@ -632,3 +632,9 @@ img {
 #white_title {
   -webkit-text-fill-color: #fff;
 }
+
+
+.home__header{
+  font-size: 36px;
+
+}
